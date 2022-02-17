@@ -1,0 +1,7 @@
+{
+  "test.highForMs|block": "high for %nb ms",
+  "test.lowForMs|block": "low for %nb ms",
+  "test|block": "test",
+  "{id:category}Test": "Test",
+  "{id:category}TestCodal": "TestCodal"
+}

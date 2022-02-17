@@ -1,0 +1,7 @@
+{
+  "TestCodal.setHigh": "Set pin High",
+  "TestCodal.setLow": "Set pin Low",
+  "test.getObject": "Get or Create a Test object",
+  "test.highForMs": "Set the pin High for amount of time",
+  "test.lowForMs": "Set the pin High for amount of time"
+}
